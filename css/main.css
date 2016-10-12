@@ -1,0 +1,61 @@
+
+   
+body{
+    background: rgba(226,226,226,1);
+background: -moz-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(254,254,254,1) 0%, rgba(219,219,219,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,1)), color-stop(0%, rgba(254,254,254,1)), color-stop(100%, rgba(219,219,219,1)));
+background: -webkit-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(254,254,254,1) 0%, rgba(219,219,219,1) 100%);
+background: -o-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(254,254,254,1) 0%, rgba(219,219,219,1) 100%);
+background: -ms-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(254,254,254,1) 0%, rgba(219,219,219,1) 100%);
+background: linear-gradient(to bottom, rgba(226,226,226,1) 0%, rgba(254,254,254,1) 0%, rgba(219,219,219,1) 100%);
+}
+
+section{
+  width:25%;
+  margin-left: 5%;
+  float: left;
+  
+}
+.picture{
+	float: left;
+	margin-left: 12%;
+	box-shadow: 5px 5px 5px    #888888;
+    width:452px   ;
+    height: 302px ;
+}
+.text{
+	float: left;
+	margin-left: 2%
+}
+
+
+#wrapper{
+	
+    width: 920px;
+	height: 920px;
+    margin: 0 auto;   
+	padding: 1%;
+ 
+}
+
+h1{
+	text-align: center;
+}
+#subsection{
+	float: right;
+	width: 25%;
+	
+}
+
+h3 {
+	text-align: center;
+}
+h2{
+	
+}
+.text {
+	 
+  margin-left: 5%;
+  float: left;
+}
+
